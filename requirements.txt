@@ -1,0 +1,2 @@
+num-to-rus==1.1.0
+weasyprint==57.2
